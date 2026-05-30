@@ -1,92 +1,85 @@
-<h1 align="center">Hi 👋, I'm Kunal Sarkar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Computer+Science+Student;Data+Engineer+in+the+making" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-I am a passionate **Computer Science & Engineering** student based in India, deeply invested in the realms of **Data Science, Analytics, and Data Engineering**. I love turning raw, chaotic data into meaningful insights and building efficient data pipelines to solve real-world complexities.
-
-* 🧠 **Data Mindset:** Strong fundamentals in both qualitative and quantitative data analysis.
-* 🛠️ **Problem Solver:** Experienced in web scraping, data extraction, and automating workflows.
-* 🚀 **Goal:** Building intelligent data systems and impactful visualization dashboards.
-
----
-
-## 📊 GitHub Stats & Trophies
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kunalsarkar20005-lab&theme=radical&column=7" alt="kunalsarkar20005-lab trophies" />
-  </a>
+  <img src="https://capsule-render.vercel.app/type=waving&color=0E75B6&height=200&section=header&text=Kunal%20Sarkar&subtitle=CSE%20Student%20|%20Data%20Scientist%20|%20Data%20Engineer&fontSize=40&fontColor=ffffff&subFontSize=18" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunalsarkar20005-lab&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kunalsarkar20005-lab views" />
-  <img src="https://github-readme-stats.vercel.com/api?username=kunalsarkar20005-lab&show_icons=true&theme=radical&count_private=true" alt="Kunal's GitHub Stats" />
+  👋 <b>Hi, I'm Kunal Sarkar</b>
+</p>
+
+<p align="center">
+  CSE Student @ TGPCET Nagpur • Data Science & Analytics Trainee @ Itvedant • Data Engineer in the making
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧠 About Me
 
-### 🐍 Data Science & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Python+%26+Data+Science+Enthusiast;Interactive+Dashboards+Developer;Building+Data+Pipelines" alt="Typing SVG" />
 </p>
+
+| 👤 Name | 📍 Location | 🎯 Interests | ⚡ Currently |
+| :--- | :--- | :--- | :--- |
+| **Kunal Sarkar** | Nagpur, Maharashtra, India | Data Science • Data Engg • Web Scraping • BI | B.Tech CSE @ TGPCET + Data Science @ Itvedant |
+
+<p align="center">
+  <a href="mailto:kunalsarkar20005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://instagram.com/laxkunall" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://fb.com/kunal sarkar" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Science & ML
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) ![](https://img.shields.io/badge/Seaborn-4479A1?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### 🛢️ Data Engineering & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+![](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 📈 Business Intelligence (BI) & Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
+### 📈 Data Analytics & BI
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black) ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-### 💻 Core Programming & Dev Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+### ⚙️ Core Engineering & Tools
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning & Expanding
-* **Advanced Machine Learning:** Deepening skills in `scikit-learn` and exploring `TensorFlow`/`PyTorch` frameworks.
-* **Data Engineering Pipelines:** Designing automated ETL pipelines and optimizing database schemas for performance.
-* **Big Data Tools:** Exploring scalable data processing concepts.
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 Web Scraping & Data Extraction Pipeline</h3>
+      <p>Automated scripts built using Python to extract unstructured data from target websites, clean it using Pandas, and store it systematically for analytics workflows.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Interactive BI Analytics Dashboard</h3>
+      <p>End-to-end business intelligence dashboards built on Power BI and Tableau Public to visualize complex data points and present actionable insights.</p>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💬 Ask Me About
-> **Python scripting, SQL queries, interactive Power BI/Tableau dashboards, Web Scraping, Data Analytics workflows, and Machine Learning models.**
+## 🎓 Education & Training
+
+| 📅 Timeline | 🏛️ Institution | 📜 Program | 📊 Status / Score |
+| :--- | :--- | :--- | :--- |
+| 2023–2027 | **TGPCET, Nagpur** | B.E. — Computer Science & Engineering | CSE Undergrad |
+| 2025–Present | **Itvedant, Nagpur** | Master's in Data Science & Analytics | Data Science Trainee |
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="mailto:kunalsarkar20005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/laxkunall" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://fb.com/kunal sarkar" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.com/api?username=kunalsarkar20005-lab&show_icons=true&theme=radical&count_private=true" alt="Kunal's GitHub Stats" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=kunalsarkar20005-lab&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
-
-<p align="center">⭐️ From India with Love | Custom README Concept 🚀</p>
