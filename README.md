@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=42&pause=5000&color=0E75B6&center=true&vCenter=true&width=800&height=100&lines=KUNAL+SARKAR" alt="Kunal Sarkar" />
+  <img src="banner.png" width="100%" alt="Kunal Sarkar Banner" />
 </p>
 
 <p align="center">
@@ -7,21 +7,18 @@
 </p>
 
 <p align="center">
-  <b>CSE Student @ TGPCET Nagpur • Data Science & Analytics Trainee @ Itvedant • Data Engineer & Analyst in the making</b>
+  CSE Student @ TGPCET Nagpur • Data Science & Analytics Trainee @ Itvedant • Data Engineer in the making
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a highly driven **Computer Science & Engineering student** at **TGPCET Nagpur** with a deep-rooted passion for **Data Science, Analytics, and Data Engineering**. My core expertise lies in bridging the gap between core engineering principles and modern data systems, transforming raw data into structured, actionable business intelligence.
+I am a driven **Computer Science & Engineering student** at **TGPCET Nagpur** with a deep-rooted passion for **Data Science, Analytics, and Data Engineering**. My core expertise lies in transforming raw, chaotic datasets into structured, actionable business intelligence. 
 
-### 🚀 What I Do:
-* **Data Lifecycle & Engineering:** I love handling data from scratch—writing efficient automated Python scripts for seamless **web scraping and data extraction**, and architecting robust database systems using SQL (MySQL, PostgreSQL).
-* **Business Intelligence:** I specialize in crafting high-impact, interactive **Power BI and Tableau dashboards** that make complex qualitative and quantitative metrics intuitive and data-driven.
-* **Quality Assurance:** Alongside data analytics, I have experience applying engineering precision to software systems, ensuring performance and reliability.
+I bridge the gap between core engineering principles and modern data systems. From writing efficient automated Python scripts for seamless **web scraping and data extraction** to architecting robust database schemas with SQL, I love handling the entire data lifecycle. On the front-facing side, I specialize in crafting interactive, high-impact **Power BI and Tableau dashboards** that make complex metrics intuitive and easy to digest for qualitative or quantitative analysis. 
 
-Always eager to optimize complex database queries, automate production-grade ETL pipelines, and deploy analytical frameworks to solve real-world complexities.
+With a strong foundation in core software engineering and experience applying technical precision to software testing pipelines, I enjoy building production-grade solutions that solve real-world complexities.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Python+%26+Data+Science+Enthusiast;Interactive+Dashboards+Developer;Building+Data+Pipelines" alt="Typing SVG" />
@@ -50,8 +47,8 @@ Always eager to optimize complex database queries, automate production-grade ETL
 ### 📈 Data Analytics & BI
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black) ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-### ⚙️ Engineering & Core Tools
-![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### ⚙️ Core Engineering & Tools
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -61,13 +58,13 @@ Always eager to optimize complex database queries, automate production-grade ETL
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 Web Scraping & Data Extraction Pipeline</h3>
-      <p>Automated modular scripts built using Python to extract unstructured data from target platforms, handle cleanups using Pandas, and pipeline the structured outputs for further database storage and analytics.</p>
+      <p>Automated scripts built using Python to extract unstructured data from target websites, clean it using Pandas, and store it systematically for analytics workflows.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🔹 Interactive BI Analytics Dashboard</h3>
-      <p>End-to-end analytics dashboards engineered using Power BI and Tableau Public. Built to clean raw relational database streams and project interactive qualitative and quantitative KPIs for enterprise insights.</p>
+      <p>End-to-end business intelligence dashboards built on Power BI and Tableau Public to visualize complex data points and present actionable insights.</p>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
     </td>
@@ -78,10 +75,10 @@ Always eager to optimize complex database queries, automate production-grade ETL
 
 ## 🎓 Education & Training
 
-| 📅 Timeline | 🏛️ Institution | 📜 Program | 📊 Status / Domain |
+| 📅 Timeline | 🏛️ Institution | 📜 Program | 📊 Status / Score |
 | :--- | :--- | :--- | :--- |
-| 2023–2027 | **Tulsiramji Gaikwad-Patil College of Engineering and Technology, Nagpur** | B.Tech — Computer Science & Engineering | Undergrad Student |
-| 2025–Present | **Itvedant Education, Nagpur** | Master's in Data Science & Analytics | Trainee |
+| 2023–2027 | **Tulsiramji Gaikwad-Patil College of Engineering and Technology, Nagpur** | B.Tech — Computer Science & Engineering | CSE Undergrad |
+| 2025–Present | **Itvedant Education, Nagpur** | Master's in Data Science & Analytics | Data Science Trainee |
 
 ---
 
