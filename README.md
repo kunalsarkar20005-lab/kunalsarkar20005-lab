@@ -56,7 +56,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunalsarkar20005-lab&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar20005-lab&theme=tokyonight" width="48%" />
 </p>
-### 🛠️ Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunalsarkar20005-lab&layout=compact&theme=tokyonight" width="40%" />
