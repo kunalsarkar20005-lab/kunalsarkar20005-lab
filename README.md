@@ -1,16 +1,16 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Kunal%20Sarkar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=45&pause=5000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Kunal+Sarkar" alt="Kunal Sarkar" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
-<h2 align="center">💻 CSE Student | 🚀 Developer | 🌐 Tech Explorer</h2>
+<h2 align="center">💻 CSE Student | 🚀 Data Scientist | 🌐 Data Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Python+Enthusiast;AI+Learner;Open+Source+Contributor;Always+Building+Something+Cool&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+%26+Data+Science+Enthusiast;Interactive+Dashboards+Developer;Building+Data+Pipelines;Web+Scraping+Expert;Always+Building+Something+Cool&center=true&width=600&height=50">
 </p>
 
 ---
@@ -19,11 +19,11 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-- 🎓 CSE Student passionate about development  
-- 💡 Love building real-world projects  
-- 🌱 Currently learning DSA + Web + AI  
-- ⚡ Interested in Blockchain & Startups  
-- 🎯 Goal: Software Engineer at top company  
+- 🎓 CSE Student at TGPCET Nagpur passionate about data systems  
+- 💡 Love building real-world projects and automated data pipelines  
+- 🌱 Currently learning Data Science & Analytics at Itvedant  
+- ⚡ Interested in Web Scraping, BI Tools & Data Engineering  
+- 🎯 Goal: Data Engineer / Analyst at a top company  
 
 ---
 
@@ -31,17 +31,20 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+  <!-- Data Analytics & BI Platforms -->
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" /></a>
+  <a href="https://public.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
+  <a href="https://www.microsoft.com/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,mongodb" />
 </p>
 
 ---
@@ -65,19 +68,19 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200">
 </p>
 
-### 🔹 Library Management System
-- SQL based full database project  
-- Handles books, users & transactions  
-- 💾 Tech: MySQL  
+### 🔹 Web Scraping & Data Extraction Pipeline
+- Automated scripts built using Python to extract unstructured web data  
+- Handles complex cleanups and transformations using Pandas  
+- 💾 Tech: Python, Pandas  
 
-### 🔹 Portfolio Website
-- Fully responsive modern UI  
-- Built with HTML, CSS, JS  
-- 🌐 Hosted online  
+### 🔹 Interactive BI Analytics Dashboard
+- Fully responsive and modern business intelligence views  
+- Built with Power BI and Tableau Public to project core metrics  
+- 🌐 Hosted online / Tableau Public Cloud  
 
-### 🔹 Python Automation Tools
-- File organizer, calculator, automation scripts  
-- ⚙️ Productivity focused tools  
+### 🔹 SQL Relational Database Tools
+- Schema architecture, optimization scripts, and database controllers  
+- ⚙️ Productivity focused data storage tools  
 
 ---
 
@@ -91,9 +94,9 @@
 
 ## 🧠 Achievements
 
-- 🏆 Built multiple real-world projects  
-- ⚡ Active learner in DSA + Web Dev  
-- 🚀 Improving daily coding skills  
+- 🏆 Built multiple real-world data and dashboard projects  
+- ⚡ Active learner in Data Engineering & Analytics workflows  
+- 🚀 Improving daily query optimization and pipeline building skills  
 - 🤝 Open-source beginner contributor  
 
 ---
@@ -101,10 +104,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://instagram.com/laxkunall" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kunalsarkar20005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">
