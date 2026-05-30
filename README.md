@@ -58,7 +58,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunalsarkar20005-lab&layout=compact&theme=tokyonight&langs_count=5&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&card_width=400&text=Python,%20SQL,%20Power%20BI,%20Tableau,%20Excel" width="40%" />
+  <table align="center" style="border: 1px solid #24283b; border-radius: 6px; background: #1a1b26; width: 40%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; padding: 16px;">
+    <tr>
+      <td style="color: #7aa2f7; font-size: 18px; font-weight: 600; padding-bottom: 12px;">
+        Most Used Languages
+      </td>
+    </tr>
+    <tr>
+      <td style="color: #bf91f3; font-size: 14px; font-weight: 500; line-height: 1.6;">
+        🔹 Python &nbsp;&nbsp;•&nbsp;&nbsp; 🔹 SQL &nbsp;&nbsp;•&nbsp;&nbsp; 🔹 Power BI <br>
+        🔹 Tableau &nbsp;&nbsp;•&nbsp;&nbsp; 🔹 Advanced Excel
+      </td>
+    </tr>
+  </table>
 </p>
 ---
 
