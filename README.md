@@ -116,13 +116,16 @@
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/kunal-kamalesh-sarkar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <a href="https://instagram.com/laxkunall" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:kunalsarkar20005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/kunalsarkar20005-lab" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
