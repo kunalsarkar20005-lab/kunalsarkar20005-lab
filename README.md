@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0E75B6&height=200&section=header&text=Kunal%20Sarkar&subtitle=CSE%20Student%20|%20Data%20Scientist%20|%20Data%20Engineer&fontSize=40&fontColor=ffffff&subFontSize=18" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=0E75B6&height=200&section=header&text=Kunal%20Sarkar&subtitle=CSE%20Student%20|%20Data%20Scientist%20|%20Data%20Engineer&fontSize=40&fontColor=ffffff&subFontSize=18" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -79,7 +79,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.com/api?username=kunalsarkar20005-lab&show_icons=true&theme=radical&count_private=true" alt="Kunal's GitHub Stats" />
-  <br />
   <img src="https://komarev.com/ghpvc/?username=kunalsarkar20005-lab&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
