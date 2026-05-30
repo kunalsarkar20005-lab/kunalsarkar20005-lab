@@ -1,20 +1,8 @@
-<!-- 🔥 SELF-CONTAINED SOLID BANNER (NEVER BREAKS) -->
-<div align="center">
-  <svg width="100%" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="180" rx="10" fill="url(#paint0_linear)"/>
-    <text fill="#ffffff" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="bold" font-size="44" letter-spacing="1" x="50%" y="45%" dominant-baseline="middle" text-anchor="middle">Kunal Sarkar</text>
-    <text fill="#e0e0e0" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="500" font-size="18" letter-spacing="3" x="50%" y="70%" dominant-baseline="middle" text-anchor="middle">CSE ENGINEER | DATA SCIENTIST | DATA ENGINEER</text>
-    <path d="M0 140C120 120 280 180 400 150C520 120 680 170 800 140V180H0V140Z" fill="#095585" fill-opacity="0.4"/>
-    <defs>
-      <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="180" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#0E75B6"/>
-        <stop offset="1" stop-color="#073E61"/>
-      </linearGradient>
-    </defs>
-  </svg>
-</div>
+<p align="center">
+  <img src="banner.png" width="100%" alt="Kunal Sarkar Banner" />
+</p>
 
-<p align="center" style="margin-top: 15px;">
+<p align="center">
   👋 <b>Hi, I'm Kunal Sarkar</b>
 </p>
 
@@ -25,6 +13,12 @@
 ---
 
 ## 🧠 About Me
+
+I am a driven **Computer Science & Engineering student** with a deep-rooted passion for **Data Science, Analytics, and Engineering**. My core expertise lies in transforming raw, chaotic datasets into structured, actionable business intelligence. 
+
+I bridge the gap between core engineering principles and modern data systems. From writing efficient automated Python scripts for seamless **web scraping and data extraction** to architecting robust database schemas, I love handling the entire data lifecycle. On the front-facing side, I specialize in crafting interactive, high-impact **Power BI and Tableau dashboards** that make complex metrics intuitive and easy to digest for qualitative or quantitative analysis.
+
+Whether it's deploying machine learning models, optimizing complex SQL queries, or automating ETL pipelines, I enjoy building production-grade solutions that solve real-world complexities.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Python+%26+Data+Science+Enthusiast;Interactive+Dashboards+Developer;Building+Data+Pipelines" alt="Typing SVG" />
