@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalsarkar20005-labshow_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar20005-lab&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
