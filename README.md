@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0E75B6&height=200&section=header&text=Kunal%20Sarkar&subtitle=CSE%20Student%20|%20Data%20Scientist%20|%20Data%20Engineer&fontSize=40&fontColor=ffffff&subFontSize=18" width="100%" alt="Header Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f4dbb78e-6c60-444a-89aa-5561a389f4b9.gif" width="100%" alt="Futuristic Tech Banner" />
 </p>
 
 <p align="center">
