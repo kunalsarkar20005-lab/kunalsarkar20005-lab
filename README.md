@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunalsarkar20005-lab&layout=compact&theme=tokyonight&langs_count=5&hide_progress=true" width="40%" />
+  <img src="https://img.shields.io/badge/Most_Used_Languages-Python_|_SQL_|_Power_BI_|_Tableau_|_Excel-1a1b26?style=for-the-badge&labelColor=16161e&color=7aa2f7" width="40%" />
 </p>
 ---
 
