@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,mongodb" />
 </p>
 
----
+--
 
 ## 📊 GitHub Stats (Live)
 
