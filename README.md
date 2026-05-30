@@ -1,7 +1,9 @@
-<!-- HERO BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=45&pause=5000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Kunal+Sarkar" alt="Kunal Sarkar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Kunal%20Sarkar&fontSize=40&fontColor=ffffff" />
 </p>
+
+<h1 align="center">👋 Hi, I'm Kunal Sarkar</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
