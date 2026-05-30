@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunalsarkar20005-lab&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunalsarkar20005-lab&layout=compact&theme=tokyonight&langs_count=5&hide_progress=true" width="40%" />
 </p>
 ---
 
