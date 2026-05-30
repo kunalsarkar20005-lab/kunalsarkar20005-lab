@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunalsarkar20005-lab&layout=compact&theme=tokyonight&langs_count=5&custom_title=Most%20Used%20Languages:%20Python,%20SQL,%20Power%20BI,%20Tableau,%20Excel" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunalsarkar20005-lab&layout=compact&theme=tokyonight&langs_count=5&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&card_width=400&text=Python,%20SQL,%20Power%20BI,%20Tableau,%20Excel" width="40%" />
 </p>
 ---
 
